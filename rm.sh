@@ -13,4 +13,4 @@ do
     echo "MR.NILL" > "$filename"
 done
 clear
-echo "Fuck Done Babe"
+echo "Fuck Done Babe Check Your File Manager"
